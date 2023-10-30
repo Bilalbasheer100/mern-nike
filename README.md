@@ -1,4 +1,4 @@
-# mern-nike
+# tailwind-nike
 
 this is a fully responsive react tailwind nike website
 
